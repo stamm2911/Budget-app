@@ -23,7 +23,7 @@ mongoose.connect(
     useCreateIndex: true,
     useFindAndModify: false,
   }
-);
+)
 
 // routes
 app.use(require("./routes/api.js"));
