@@ -6,6 +6,7 @@ This app allows a user to add expenses and deposits to their budget with or with
 
 ## Table of Contents
 - [Usage](#usage)
+- [Deployed App](#deployed-app)
 - [License](#license)
 - [Contribute](#contribute)
 - [Questions](#questions)
@@ -20,6 +21,10 @@ Offline Functionality:
 When brought back online:
 
   * Offline entries should be added to tracker.
+
+## Deployed App
+[https://fast-castle-21044.herokuapp.com/](https://fast-castle-21044.herokuapp.com/)
+![Deployed application](img/deployed-app.PNG)
 
 ## License
 © Licensed under the MIT License
